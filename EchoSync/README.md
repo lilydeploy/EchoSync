@@ -1,4 +1,4 @@
-# Music Streaming Platform Smart Contract
+# EchoSync
 
 A comprehensive smart contract built on the Stacks blockchain using Clarity that manages a decentralized music streaming platform with track ownership, marketplace functionality, and artist profiles.
 
